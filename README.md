@@ -1,5 +1,7 @@
+                                                Coding Interview Questions
 # tandem-bicycle
 
+Difficulty: easy
 
   A tandem bicycle is a bicycle that's operated by two people: person A and
   person B. Both people pedal the bicycle, but the person that pedals faster
